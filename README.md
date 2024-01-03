@@ -1,2 +1,2 @@
 # E20-Hangman-Game
- Exercising on game consept
+ Exercising on game consept in UIKit
